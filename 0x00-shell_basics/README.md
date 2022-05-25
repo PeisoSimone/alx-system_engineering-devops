@@ -1,1 +1,1 @@
-describing what each script does
+Display current directory contents in a long format
